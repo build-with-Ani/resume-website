@@ -50,12 +50,13 @@ document.addEventListener("DOMContentLoaded", () => {
     if (typing) {
 
         const roles = [
-            "M.Sc. Computer Science Gold Medalist",
-            "IT Enthusiast",
-            "Full Stack Developer",
-            "Java Developer",
-            "Problem Solver",
-            "Continuous Learner"
+            "Software Developer",
+"Java Developer",
+"Full Stack Developer",
+"Backend Developer",
+"Frontend Developer",
+"Web Developer",
+"Application Developer"
         ];
 
         let roleIndex = 0;
